@@ -36,7 +36,7 @@ Google's Women Techmakers program provides visibility, community, and resources 
 
 [How to Join](https://www.womentechmakers.com/membership)
 
-### [LeanIn.Org](https://leanin.org/)
+## [LeanIn.Org](https://leanin.org/)
 LeanIn.Org is a nonprofit organization dedicated to offering women the ongoing inspiration and support to help them achieve their goals. The organization desires to support women in three main ways: community, education, and circles, or small, coordinated peer groups that meet to share their experiences and learn together.
 
 [Website](https://leanin.org/)
