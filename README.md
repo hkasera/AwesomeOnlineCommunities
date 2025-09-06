@@ -2,7 +2,7 @@
 
 ## [Systers](https://systers.org/)
 Systers is a forum for all women involved in the technical aspects of computing. 
-It was founded By [Anita Borg](https://anitaborg.org/about-us/about-anita-borg/)
+It was founded By [Anita Borg](https://anitab.org/our-history)
 
 [Website](https://systers.org/)
 
