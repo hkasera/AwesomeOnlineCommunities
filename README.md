@@ -22,13 +22,6 @@ Girls Who Code is a nonprofit organization which aims to support and increase th
 
 [How to Join](https://girlswhocode.com/volunteer/)
 
-## [Codess](https://www.codess.net/)
-Codess is a community for female coders initiated by Microsoft.  Codess was established to explore ways to promote gender diversity in the engineering field. 
-
-[Website](https://www.codess.net/)
-
-[How to Join](https://www.codess.net/get-connected/)
-
 ## [Women Techmakers](https://www.womentechmakers.com/)
 Google's Women Techmakers program provides visibility, community, and resources for women in technology.
 
