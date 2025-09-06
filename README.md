@@ -33,3 +33,10 @@ LeanIn.Org is a nonprofit organization dedicated to offering women the ongoing i
 [Website](https://leanin.org/)
 
 [How to Join](https://leanin.org/circles?campaign=Nav18)
+
+## [Rewriting the code](https://rewritingthecode.org/)
+Join 35,000+ women advancing together from college through career, while connecting with companies that value their unique talent and perspective.
+
+[Website](https://rewritingthecode.org/)
+
+[How to Join](https://rewritingthecode.org/join-us/)
