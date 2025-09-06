@@ -1,12 +1,12 @@
 # Awesome Online Communities
 
-## [Systers](https://anitaborg.org/systers/)
+## [Systers](https://systers.org/)
 Systers is a forum for all women involved in the technical aspects of computing. 
 It was founded By [Anita Borg](https://anitaborg.org/about-us/about-anita-borg/)
 
-[Website](https://anitaborg.org/systers/)
+[Website](https://systers.org/)
 
-[How to Join](http://systers.org/mailman/listinfo/systers)
+[How to Join](https://discord.com/invite/systers)
 
 ## [Women Who Code](https://www.womenwhocode.com/)
 A global non-profit organization dedicated to inspiring women to excel in technology careers.
