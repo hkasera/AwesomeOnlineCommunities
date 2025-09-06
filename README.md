@@ -1,10 +1,10 @@
 # Awesome Online Communities
 
-| Community | Description | Website | How to Join |
-|---|---|---|---|
-| [Systers](https://systers.org/) | Systers is a forum for all women involved in the technical aspects of computing. It was founded By [Anita Borg](https://anitab.org/our-history) | [Website](https://systers.org/) | [How to Join](https://discord.com/invite/systers) |
-| [Women Who Code](https://www.womenwhocode.com/) | A global non-profit organization dedicated to inspiring women to excel in technology careers. | [Website](https://www.womenwhocode.com/) | |
-| [Girls Who Code](https://girlswhocode.com/) | Girls Who Code is a nonprofit organization which aims to support and increase the number of women in computer science. The organization is working to close the gender employment difference in technology and change the image of what a programmer looks like. | [Website](https://girlswhocode.com/) | [How to Join](https://girlswhocode.com/volunteer/) |
-| [Women Techmakers](https://www.womentechmakers.com/) | Google's Women Techmakers program provides visibility, community, and resources for women in technology. | [Website](https://www.womentechmakers.com/) | [How to Join](https://developers.google.com/womentechmakers/members) |
-| [LeanIn.Org](https://leanin.org/) | LeanIn.Org is a nonprofit organization dedicated to offering women the ongoing inspiration and support to help them achieve their goals. The organization desires to support women in three main ways: community, education, and circles, or small, coordinated peer groups that meet to share their experiences and learn together. | [Website](https://leanin.org/) | [How to Join](https://leanin.org/circles?campaign=Nav18) |
-| [Rewriting the code](https://rewritingthecode.org/) | Join 35,000+ women advancing together from college through career, while connecting with companies that value their unique talent and perspective. | [Website](https://rewritingthecode.org/) | [How to Join](https://rewritingthecode.org/join-us/) |
+| Community | Description | Website |
+|---|---|---|
+| [Systers](https://systers.org/) | Systers is a forum for all women involved in the technical aspects of computing. It was founded By [Anita Borg](https://anitab.org/our-history) | [Website](https://systers.org/) |
+| [Women Who Code](https://www.womenwhocode.com/) | A global non-profit organization dedicated to inspiring women to excel in technology careers. | [Website](https://www.womenwhocode.com/) |
+| [Girls Who Code](https://girlswhocode.com/) | Girls Who Code is a nonprofit organization which aims to support and increase the number of women in computer science. The organization is working to close the gender employment difference in technology and change the image of what a programmer looks like. | [Website](https://girlswhocode.com/) |
+| [Women Techmakers](https://www.womentechmakers.com/) | Google's Women Techmakers program provides visibility, community, and resources for women in technology. | [Website](https://www.womentechmakers.com/) |
+| [LeanIn.Org](https://leanin.org/) | LeanIn.Org is a nonprofit organization dedicated to offering women the ongoing inspiration and support to help them achieve their goals. The organization desires to support women in three main ways: community, education, and circles, or small, coordinated peer groups that meet to share their experiences and learn together. | [Website](https://leanin.org/) |
+| [Rewriting the code](https://rewritingthecode.org/) | Join 35,000+ women advancing together from college through career, while connecting with companies that value their unique talent and perspective. | [Website](https://rewritingthecode.org/) |
