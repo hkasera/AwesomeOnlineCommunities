@@ -20,7 +20,7 @@ Girls Who Code is a nonprofit organization which aims to support and increase th
 
 [Website](https://girlswhocode.com/)
 
-[How to Join](https://girlswhocode.com/volunteer/)
+[How to Join](https://girlswhocode.com/get-involved)
 
 ## [Codess](https://www.codess.net/)
 Codess is a community for female coders initiated by Microsoft.  Codess was established to explore ways to promote gender diversity in the engineering field. 
