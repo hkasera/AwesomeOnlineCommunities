@@ -1,5 +1,7 @@
 # Awesome Online Communities
 
+This is a list of awesome online communities for people in tech. Feel free to contribute to this list by following the guidelines in the `CONTRIBUTING.md` file.
+
 | Community | Description | Website |
 |---|---|---|
 | [Systers](https://systers.org/) | Systers is a forum for all women involved in the technical aspects of computing. It was founded By [Anita Borg](https://anitab.org/our-history) | [Website](https://systers.org/) |
